@@ -1,3 +1,3 @@
 # magma-clone
 
-### [Live Site](https://saifullah72437.github.io/magma-clone/)
+### [Live Site](https://saif72437.github.io/Magma/)
